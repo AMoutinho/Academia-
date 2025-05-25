@@ -1,4 +1,4 @@
-<p align=center><img align="center" src="https://i.imgur.com/4k356Rw.png" height="55" width="60"/> <b>Academia Fábrica de Monstros</b> <img align="center" src="https://i.imgur.com/4k356Rw.png" height="55" width="60"/></p>
+# <p align=center> Academia Fábrica de Monstros </p>
 
 <div id="inicio" align=center>
   <a href="#sobre">Sobre o Projeto</a>&nbsp;&nbsp;&nbsp;
